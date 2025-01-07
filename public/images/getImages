@@ -1,0 +1,8 @@
+# Portfolio images
+curl -o placeholder1.jpg https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d
+curl -o placeholder2.jpg https://images.unsplash.com/photo-1492684223066-81342ee5ff30
+curl -o placeholder3.jpg https://images.unsplash.com/photo-1512917774080-9991f1c4c750
+curl -o placeholder4.jpg https://images.unsplash.com/photo-1452780212940-6f5c0d14d848
+curl -o placeholder5.jpg https://images.unsplash.com/photo-1464822759023-fed622ff2c3b
+curl -o placeholder6.jpg https://images.unsplash.com/photo-1587300003388-59208cc962cb
+curl -o placeholder7.jpg https://images.unsplash.com/photo-1557180295-76eee20ae8aa

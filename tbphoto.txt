@@ -1,0 +1,97 @@
+@codebase
+
+Create a new codebase called tbphoto.
+Create a website called tbphoto.ca.
+This website is a photo gallery for the Mississauga based photographer, Thomas Borland Photography.
+
+@website
+
+The website should be a photo and video gallery with a responsive design.
+The website should be built with vue.js, Vue Router, Vuex and Vuetify.
+The backend should be built with PHP and MySQL.
+Axios should be used to make API calls.
+
+# Photography Portfolio Website Requirements
+
+## 1. Website Purpose
+- Showcase portrait, event, real estate and artistic photography work
+- Target high-end clients and families and real estate clients
+- Generate inquiries for booking sessions
+
+## 2. Design Style
+- Clean, elegant design with lots of white space
+- Colors: White background, black text, gold accents (#C0B283)
+- Typography: Playfair Display for headings, Open Sans for body text
+
+## 3. Layout Structure
+### Homepage
+- Minimal header with logo centered
+- Full-screen image slider showing best 5 photos
+- Grid of recent work below
+- Client testimonials section
+
+### Portfolio Gallery
+- Masonry grid layout with 3 columns on desktop
+- Filtering by: Portraits, Events, Real Estate, Artistic
+- Images open in lightbox with arrows to navigate
+
+
+### About Page
+- Professional headshot and bio
+- Photography philosophy and approach
+- Equipment and technical expertise
+- Awards and publications section
+
+### Contact Page
+- Contact form with fields for:
+  - Name
+  - Email
+  - Phone
+  - Event type/Session type
+  - Date
+  - Message
+- Studio location and map
+- Business hours
+- Social media links
+
+### Services & Pricing
+- Detailed service packages for:
+  - Portrait sessions
+  - Event photography
+  - Real estate photography
+  - Fine art prints
+- Clear pricing structure
+- FAQ section
+
+## 4. Technical Requirements
+### Frontend
+- Vue.js framework with Vue Router for navigation
+- Vuex for state management
+- Vuetify for UI components and responsive design
+- Lazy loading of images
+- Image optimization and caching
+- Smooth page transitions
+- Form validation
+
+### Backend
+- PHP RESTful API
+- MySQL database for:
+  - Image metadata
+  - Portfolio categories
+  - Contact form submissions
+  - User authentication
+- Image upload and storage system
+- Email notification system
+- Security measures (CSRF, XSS protection)
+
+## 5. SEO & Performance
+- Meta tags optimization
+- Image alt tags and descriptions
+- Sitemap generation
+- Schema markup for photos
+- Mobile-first responsive design
+- Performance optimization:
+  - Image compression
+  - Caching strategies
+  - Code splitting
+  - CDN integration

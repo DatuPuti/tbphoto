@@ -1,0 +1,25 @@
+tbphoto/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── assets/
+│   │   ├── images/
+│   │   └── styles/
+│   ├── components/
+│   │   ├── layout/
+│   │   ├── gallery/
+│   │   └── shared/
+│   ├── views/
+│   ├── store/
+│   ├── router/
+│   ├── services/
+│   ├── utils/
+│   ├── App.vue
+│   └── main.js
+├── api/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   └── index.php
+└── package.json 
